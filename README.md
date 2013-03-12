@@ -12,7 +12,7 @@ ig.spawnEntity(EntityChatbubble,0,0,parameters);
 
 Possible parameter values to customize the bubble are as follows.
 
-**tracks** Name of the entity chat bubble follows. 
+**tracks** Name of, or reference to, the entity that the chat bubble follows.
 
 **shape** The shape of the chat bubble.
  
